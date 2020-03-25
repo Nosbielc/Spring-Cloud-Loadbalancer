@@ -18,7 +18,8 @@
 
     <modules>
         <module>eureka-service</module>
-
+        <module>api</module>
+        <module>client</module>
     </modules>
 
     <developers>
